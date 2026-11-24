@@ -2,9 +2,11 @@
 
 Data Science + Cognitive Science @ UC Berkeley
 
-I build systems that make unstructured information interpretable across different areas of expertise. Most of my work lives at the intersection of NLP, retrieval systems, and figuring out when AI outputs are trustworthy enough to act on.
+I build systems that make unstructured information interpretable across different areas of expertise.
 
 ## Projects
+
+**[Fitness Pose Tracker](https://github.com/Ekimxii/fitness-pose-tracker) : Team project I led that turns a workout video into coach-style form feedback, counting reps and flagging mistakes across five bodyweight exercises. Focused on the end-to-end architecture: pose-based form checks with XGBoost, a gated RAG pipeline over 2,000+ real coach messages, and the Gradio app that connects them.
 
 **[CourseWise AI Chatbot](https://github.com/Ekimxii/CourseWise-AI-Chatbot)** : RAG-based chatbot for course transfer planning, built for registrars and advisors across 70+ institutions. Focused on retrieval architecture, chunking decisions, and evaluation frameworks for LLM output quality.
 
