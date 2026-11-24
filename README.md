@@ -2,7 +2,7 @@
 
 Data Science + Cognitive Science @ UC Berkeley
 
-I build systems that make unstructured information interpretable across different areas of expertise.
+Data is beautiful!
 
 ## Projects
 
